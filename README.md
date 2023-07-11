@@ -1,1 +1,3 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+PORTFOLIO de Angie DUHARD
+Regroupant les liens de mes projets personnels
+Site créé avec Ruby on Rails, utilisant Webpack, Javascript, ReactJS, HTML et CSS.
